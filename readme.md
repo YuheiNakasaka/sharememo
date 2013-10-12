@@ -2,6 +2,8 @@
 
 [http://www.sharememo.net/](http://www.sharememo.net/)
 
+[blog](http://razokulover.hateblo.jp/entry/2013/10/12/220505)
+
 ## 概要
 
 Share Memoは勉強会等で書いたメモをすぐさまシェアするためのサービスでした。

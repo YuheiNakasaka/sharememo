@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables
+END
+variable-debugging-ctrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-debugging-ctrl.xml
+END
+variable-error-reporting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-error-reporting.xml
+END
+variable-compile-check.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-compile-check.xml
+END
+variable-compile-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-compile-dir.xml
+END
+variable-security-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-security-settings.xml
+END
+variable-trusted-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-trusted-dir.xml
+END
+variable-compiler-class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-compiler-class.xml
+END
+variable-cache-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-cache-dir.xml
+END
+variable-config-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-config-dir.xml
+END
+variable-template-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-template-dir.xml
+END
+variable-config-overwrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-config-overwrite.xml
+END
+variable-right-delimiter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-right-delimiter.xml
+END
+variable-config-booleanize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-config-booleanize.xml
+END
+variable-debugging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-debugging.xml
+END
+variable-cache-modified-check.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-cache-modified-check.xml
+END
+variable-plugins-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-plugins-dir.xml
+END
+variable-cache-lifetime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-cache-lifetime.xml
+END
+variable-default-template-handler-func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-default-template-handler-func.xml
+END
+variable-secure-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-secure-dir.xml
+END
+variable-default-modifiers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-default-modifiers.xml
+END
+variable-left-delimiter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-left-delimiter.xml
+END
+variable-config-read-hidden.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-config-read-hidden.xml
+END
+variable-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-security.xml
+END
+variable-cache-handler-func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-cache-handler-func.xml
+END
+variable-php-handling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-php-handling.xml
+END
+variable-request-use-auto-globals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-request-use-auto-globals.xml
+END
+variable-request-vars-order.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-request-vars-order.xml
+END
+variable-config-fix-newlines.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-config-fix-newlines.xml
+END
+variable-autoload-filters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-autoload-filters.xml
+END
+variable-use-sub-dirs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-use-sub-dirs.xml
+END
+variable-compile-id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-compile-id.xml
+END
+variable-debug-tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-debug-tpl.xml
+END
+variable-force-compile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-force-compile.xml
+END
+variable-default-resource-type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-default-resource-type.xml
+END
+variable-caching.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/api-variables/variable-caching.xml
+END

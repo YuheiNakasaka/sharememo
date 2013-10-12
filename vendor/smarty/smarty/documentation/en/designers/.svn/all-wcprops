@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers
+END
+language-custom-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-custom-functions.xml
+END
+language-modifiers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-modifiers.xml
+END
+config-files.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/config-files.xml
+END
+language-combining-modifiers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-combining-modifiers.xml
+END
+language-basic-syntax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-basic-syntax.xml
+END
+language-variables.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-variables.xml
+END
+language-builtin-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions.xml
+END
+chapter-debugging-console.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/chapter-debugging-console.xml
+END

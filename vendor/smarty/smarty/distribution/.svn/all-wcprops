@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4752/tags/v3.1.14/distribution
+END
+change_log.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/change_log.txt
+END
+SMARTY_3.1_NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/SMARTY_3.1_NOTES.txt
+END
+SMARTY_3.0_BC_NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/SMARTY_3.0_BC_NOTES.txt
+END
+SMARTY_2_BC_NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/SMARTY_2_BC_NOTES.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/README
+END
+COPYING.lib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/COPYING.lib
+END

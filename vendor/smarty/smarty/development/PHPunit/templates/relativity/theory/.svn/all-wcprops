@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/relativity/theory
+END
+foo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/relativity/theory/foo.tpl
+END
+theory.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/relativity/theory/theory.tpl
+END

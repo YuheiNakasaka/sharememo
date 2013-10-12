@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates
+END
+test_default_block_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_block_script.tpl
+END
+test_block_nocache_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_nocache_parent.tpl
+END
+insertplugintest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/insertplugintest.tpl
+END
+test_default_modifier_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_modifier_script.tpl
+END
+test_block.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block.tpl
+END
+compilerplugintest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/compilerplugintest.tpl
+END
+test_block_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child.tpl
+END
+test_block_grandchild_nested3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_nested3.tpl
+END
+test_block_child_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_nested.tpl
+END
+test_block_child_append_shorttag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_append_shorttag.tpl
+END
+test_block_grandchild_append.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_append.tpl
+END
+test_block_child_nested_hide_space.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_nested_hide_space.tpl
+END
+test_block_child_resource.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_resource.tpl
+END
+test_default_compiler_function_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_compiler_function_script.tpl
+END
+assign.root.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/assign.root.tpl
+END
+test_block_parent_nested_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent_nested_include.tpl
+END
+test_plugin_chained_load.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_plugin_chained_load.tpl
+END
+test_default_static_modifier.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_static_modifier.tpl
+END
+relative_notexist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/relative_notexist.tpl
+END
+relative.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/relative.tpl
+END
+test_print_nocache.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_print_nocache.tpl
+END
+test_block_grandchild_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_smartychild.tpl
+END
+displayfoonofilter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/displayfoonofilter.tpl
+END
+test_block_grandchild_nested_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_nested_include.tpl
+END
+test_block_child_nested2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_nested2.tpl
+END
+test_block_child_nested3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_nested3.tpl
+END
+test_block_child_append.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_append.tpl
+END
+test_block_base.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_base.tpl
+END
+test_block_extends.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_extends.tpl
+END
+assign.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/assign.tpl
+END
+test_block_grandchild_prepend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_prepend.tpl
+END
+extendsall2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/extendsall2.tpl
+END
+test_block_child_nested_hide.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_nested_hide.tpl
+END
+test_register_function.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_register_function.tpl
+END
+test_define_function_tag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_define_function_tag.tpl
+END
+test_template_function_nocache_call.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_nocache_call.tpl
+END
+test_block_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include.tpl
+END
+helloworld2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/helloworld2.tpl
+END
+displayfoonocachenofilter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/displayfoonocachenofilter.tpl
+END
+test_block_child_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_smartychild.tpl
+END
+xml.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/xml.tpl
+END
+test_default_modifier.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_modifier.tpl
+END
+test_block_child_nested_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_nested_include.tpl
+END
+test_block_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent.tpl
+END
+functionplugintest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/functionplugintest.tpl
+END
+test_block_child_smartyparent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_smartyparent.tpl
+END
+template_function_lib.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/template_function_lib.tpl
+END
+test_block_child_prepend.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_prepend.tpl
+END
+phphelloworld.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/phphelloworld.php
+END
+test_recursive_includes2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_recursive_includes2.tpl
+END
+test_recursive_includes_pass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_recursive_includes_pass.tpl
+END
+test_capture_nocache.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_capture_nocache.tpl
+END
+assign.global.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/assign.global.tpl
+END
+relative_sub.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/relative_sub.tpl
+END
+test_block_parent3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent3.tpl
+END
+test_block_parent_nested2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent_nested2.tpl
+END
+test_inherit_function_tag6.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_inherit_function_tag6.tpl
+END
+test_block_include_start1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include_start1.tpl
+END
+test_nocache_tag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_nocache_tag.tpl
+END
+test_block_include_start2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include_start2.tpl
+END
+test_block_include_start3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include_start3.tpl
+END
+test_block_include_root.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include_root.tpl
+END
+test_default_function_script_notcachable.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_function_script_notcachable.tpl
+END
+test_inherit_function_tag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_inherit_function_tag.tpl
+END
+test_block_include_subtemplate.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include_subtemplate.tpl
+END
+test_block_parent_smartychild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent_smartychild.tpl
+END
+blockplugintest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/blockplugintest.tpl
+END
+displayfoo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/displayfoo.tpl
+END
+hello_world_test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/hello_world_test.tpl
+END
+test_block_child_plugin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_plugin.tpl
+END
+test_block_nocache_child.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_nocache_child.tpl
+END
+test_default_function_script.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_function_script.tpl
+END
+dirname.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/dirname.tpl
+END
+test_block_child_smartychild2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_child_smartychild2.tpl
+END
+default.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/default.tpl
+END
+displayfoonocache.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/displayfoonocache.tpl
+END
+test_template_function_tag1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag1.tpl
+END
+test_template_function_tag2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag2.tpl
+END
+whitespace.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/whitespace.tpl
+END
+test_recursive_includes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_recursive_includes.tpl
+END
+test_nocache_tag_include.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_nocache_tag_include.tpl
+END
+test_template_function_tag3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag3.tpl
+END
+test_register_block.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_register_block.tpl
+END
+test_template_function_tag4.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag4.tpl
+END
+test_template_function_tag5.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag5.tpl
+END
+test_template_function_tag6.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag6.tpl
+END
+test_block_parent_nested2_space.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent_nested2_space.tpl
+END
+test_template_function_tag7.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function_tag7.tpl
+END
+test_default_function_local.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_default_function_local.tpl
+END
+extendsall.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/extendsall.tpl
+END
+test_block_parent_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent_nested.tpl
+END
+test_block_include_parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_include_parent.tpl
+END
+test_block_grandchild.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild.tpl
+END
+test_block_grandchild_nested.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_nested.tpl
+END
+helloworld.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/helloworld.tpl
+END
+assign.parent.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/assign.parent.tpl
+END
+test_block_parent_shorttag.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_parent_shorttag.tpl
+END
+test_block_section.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_section.tpl
+END
+test_block_grandchild_resource.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_block_grandchild_resource.tpl
+END
+test_template_function.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/development/PHPunit/templates/test_template_function.tpl
+END

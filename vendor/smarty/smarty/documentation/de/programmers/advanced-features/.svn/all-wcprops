@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features
+END
+section-template-cache-handler-func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features/section-template-cache-handler-func.xml
+END
+template-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features/template-resources.xml
+END
+advanced-features-objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features/advanced-features-objects.xml
+END
+advanced-features-outputfilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features/advanced-features-outputfilters.xml
+END
+advanced-features-postfilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features/advanced-features-postfilters.xml
+END
+advanced-features-prefilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features/advanced-features-prefilters.xml
+END

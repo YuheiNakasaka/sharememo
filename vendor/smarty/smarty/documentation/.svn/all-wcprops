@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4752/tags/v3.1.14/documentation
+END
+current_lang
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/current_lang
+END
+manual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/manual.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/README
+END
+Makefile-dist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/Makefile-dist
+END

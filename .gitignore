@@ -1,9 +1,0 @@
-/bootstrap/compiled.php
-/vendor*
-composer.phar
-composer.lock
-.DS_Store
-/app/config/facebook.php
-/app/config/packages/philo/twitter/config.php
-/app/storage
-/storage

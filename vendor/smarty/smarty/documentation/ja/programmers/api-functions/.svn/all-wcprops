@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions
+END
+api-register-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-resource.xml
+END
+api-unregister-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-unregister-filter.xml
+END
+api-set-config-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-set-config-dir.xml
+END
+api-create-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-create-template.xml
+END
+api-set-template-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-set-template-dir.xml
+END
+api-is-cached.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-is-cached.xml
+END
+api-register-plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-plugin.xml
+END
+api-get-compile-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-compile-dir.xml
+END
+api-config-load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-config-load.xml
+END
+api-mute-expected-errors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-mute-expected-errors.xml
+END
+api-register-class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-class.xml
+END
+api-enable-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-enable-security.xml
+END
+api-unregister-object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-unregister-object.xml
+END
+api-get-cache-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-cache-dir.xml
+END
+api-set-compile-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-set-compile-dir.xml
+END
+api-compile-all-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-compile-all-config.xml
+END
+api-display.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-display.xml
+END
+api-assign-by-ref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-assign-by-ref.xml
+END
+api-add-config-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-add-config-dir.xml
+END
+api-register-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-filter.xml
+END
+api-append.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-append.xml
+END
+api-set-cache-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-set-cache-dir.xml
+END
+api-clear-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-clear-assign.xml
+END
+api-get-plugins-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-plugins-dir.xml
+END
+api-create-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-create-data.xml
+END
+api-get-tags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-tags.xml
+END
+api-unregister-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-unregister-resource.xml
+END
+api-register-default-plugin-handler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-default-plugin-handler.xml
+END
+api-add-template-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-add-template-dir.xml
+END
+api-clear-compiled-tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-clear-compiled-tpl.xml
+END
+api-clear-all-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-clear-all-assign.xml
+END
+api-get-registered-object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-registered-object.xml
+END
+api-test-install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-test-install.xml
+END
+api-unregister-plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-unregister-plugin.xml
+END
+api-add-plugins-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-add-plugins-dir.xml
+END
+api-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-assign.xml
+END
+api-set-plugins-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-set-plugins-dir.xml
+END
+api-clear-cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-clear-cache.xml
+END
+api-register-object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-object.xml
+END
+api-template-exists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-template-exists.xml
+END
+api-fetch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-fetch.xml
+END
+api-clear-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-clear-config.xml
+END
+api-append-by-ref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-append-by-ref.xml
+END
+api-compile-all-templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-compile-all-templates.xml
+END
+api-get-config-vars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-config-vars.xml
+END
+api-clear-all-cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-clear-all-cache.xml
+END
+api-register-cacheresource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-register-cacheresource.xml
+END
+api-get-config-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-config-dir.xml
+END
+api-unregister-cacheresource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-unregister-cacheresource.xml
+END
+api-get-template-vars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-template-vars.xml
+END
+api-load-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-load-filter.xml
+END
+api-get-template-dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-get-template-dir.xml
+END
+api-disable-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/api-functions/api-disable-security.xml
+END

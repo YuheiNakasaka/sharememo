@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins
+END
+plugins-modifiers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-modifiers.xml
+END
+plugins-writing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-writing.xml
+END
+plugins-inserts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-inserts.xml
+END
+plugins-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-functions.xml
+END
+plugins-outputfilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-outputfilters.xml
+END
+plugins-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-resources.xml
+END
+plugins-prefilters-postfilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-prefilters-postfilters.xml
+END
+plugins-naming-conventions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-naming-conventions.xml
+END
+plugins-compiler-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-compiler-functions.xml
+END
+plugins-block-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-block-functions.xml
+END
+plugins-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/fr/programmers/plugins/plugins-howto.xml
+END

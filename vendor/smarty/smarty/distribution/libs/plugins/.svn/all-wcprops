@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins
+END
+function.html_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_image.php
+END
+modifier.spacify.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.spacify.php
+END
+modifiercompiler.unescape.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.unescape.php
+END
+modifier.escape.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.escape.php
+END
+modifiercompiler.strip_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.strip_tags.php
+END
+modifier.debug_print_var.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.debug_print_var.php
+END
+modifier.replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.replace.php
+END
+shared.mb_unicode.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/shared.mb_unicode.php
+END
+shared.literal_compiler_param.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/shared.literal_compiler_param.php
+END
+modifiercompiler.count_characters.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.count_characters.php
+END
+variablefilter.htmlspecialchars.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/variablefilter.htmlspecialchars.php
+END
+modifier.capitalize.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.capitalize.php
+END
+modifier.date_format.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.date_format.php
+END
+modifiercompiler.upper.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.upper.php
+END
+function.cycle.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.cycle.php
+END
+block.textformat.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/block.textformat.php
+END
+modifiercompiler.count_sentences.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.count_sentences.php
+END
+modifiercompiler.strip.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.strip.php
+END
+function.html_radios.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_radios.php
+END
+outputfilter.trimwhitespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/outputfilter.trimwhitespace.php
+END
+modifiercompiler.wordwrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.wordwrap.php
+END
+modifiercompiler.count_words.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.count_words.php
+END
+function.html_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_table.php
+END
+modifiercompiler.cat.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.cat.php
+END
+modifier.regex_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.regex_replace.php
+END
+function.counter.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.counter.php
+END
+function.html_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_options.php
+END
+modifiercompiler.from_charset.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.from_charset.php
+END
+shared.make_timestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/shared.make_timestamp.php
+END
+function.html_select_time.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_select_time.php
+END
+modifiercompiler.string_format.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.string_format.php
+END
+function.mailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.mailto.php
+END
+modifiercompiler.indent.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.indent.php
+END
+modifiercompiler.default.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.default.php
+END
+function.math.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.math.php
+END
+function.fetch.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.fetch.php
+END
+modifiercompiler.lower.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.lower.php
+END
+modifiercompiler.noprint.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.noprint.php
+END
+modifier.truncate.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifier.truncate.php
+END
+modifiercompiler.to_charset.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.to_charset.php
+END
+function.html_select_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_select_date.php
+END
+shared.escape_special_chars.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/shared.escape_special_chars.php
+END
+function.html_checkboxes.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/function.html_checkboxes.php
+END
+shared.mb_str_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/shared.mb_str_replace.php
+END
+shared.mb_wordwrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/shared.mb_wordwrap.php
+END
+modifiercompiler.escape.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.escape.php
+END
+modifiercompiler.count_paragraphs.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4752/tags/v3.1.14/distribution/libs/plugins/modifiercompiler.count_paragraphs.php
+END

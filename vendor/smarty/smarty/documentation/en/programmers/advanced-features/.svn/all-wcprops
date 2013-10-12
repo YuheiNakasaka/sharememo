@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features
+END
+advanced-features-template-inheritance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-template-inheritance.xml
+END
+advanced-features-static-classes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-static-classes.xml
+END
+advanced-features-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-security.xml
+END
+advanced-features-template-settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-template-settings.xml
+END
+advanced-features-objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-objects.xml
+END
+advanced-features-outputfilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-outputfilters.xml
+END
+advanced-features-postfilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-postfilters.xml
+END
+advanced-features-streams.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-streams.xml
+END
+advanced-features-prefilters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/programmers/advanced-features/advanced-features-prefilters.xml
+END

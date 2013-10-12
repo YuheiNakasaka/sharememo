@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers
+END
+plugins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/plugins.xml
+END
+advanced-features.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/advanced-features.xml
+END
+smarty-constants.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/smarty-constants.xml
+END
+caching.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/caching.xml
+END
+api-variables.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/api-variables.xml
+END
+api-functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/de/programmers/api-functions.xml
+END

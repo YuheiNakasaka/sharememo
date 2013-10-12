@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 23
+templates_c
+Smarty3Doc
+
+K 13
+svn:mergeinfo
+V 25
+/branches/stash:4516-4517
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions
+END
+language-function-config-load.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-config-load.xml
+END
+language-function-include.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-include.xml
+END
+language-function-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-assign.xml
+END
+language-function-function.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-function.xml
+END
+language-function-for.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-for.xml
+END
+language-function-debug.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-debug.xml
+END
+language-function-php.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-php.xml
+END
+language-function-block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-block.xml
+END
+language-function-literal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-literal.xml
+END
+language-function-if.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-if.xml
+END
+language-function-nocache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-nocache.xml
+END
+language-function-setfilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-setfilter.xml
+END
+language-function-strip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-strip.xml
+END
+language-function-capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-capture.xml
+END
+language-function-section.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-section.xml
+END
+language-function-insert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-insert.xml
+END
+language-function-shortform-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-shortform-assign.xml
+END
+language-function-ldelim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-ldelim.xml
+END
+language-function-append.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-append.xml
+END
+language-function-foreach.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-foreach.xml
+END
+language-function-while.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-while.xml
+END
+language-function-include-php.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-include-php.xml
+END
+language-function-extends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-extends.xml
+END
+language-function-call.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/en/designers/language-builtin-functions/language-function-call.xml
+END

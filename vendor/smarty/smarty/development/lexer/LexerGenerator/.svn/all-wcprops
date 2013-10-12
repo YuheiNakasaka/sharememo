@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator/Parser.php
+END
+Parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator/Parser.y
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator/Exception.php
+END
+Lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator/Lexer.php
+END
+ParserOriginal.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator/ParserOriginal.php
+END
+cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4752/tags/v3.1.14/development/lexer/LexerGenerator/cli.php
+END

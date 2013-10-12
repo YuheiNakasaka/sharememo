@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources
+END
+resources-extends.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources/resources-extends.xml
+END
+resources-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources/resources-custom.xml
+END
+template-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources/template-resources.xml
+END
+resources-streams.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources/resources-streams.xml
+END
+resources-file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources/resources-file.xml
+END
+resources-string.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4752/tags/v3.1.14/documentation/ja/programmers/resources/resources-string.xml
+END

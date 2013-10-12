@@ -1,0 +1,180 @@
+h3{
+    margin-top: 10px;
+}
+div#content {
+    clear: both;
+    margin: 30px 60px 0 60px;
+    padding: 15px 0 20px 0;
+    min-height: 380px;
+    min-height: 100px!important;
+}
+
+li{
+    /*デフォルトのcssをリセット*/
+    list-style-type: none;
+}
+div#content ul {
+padding: 5px 0 5px 0;
+}
+section{
+    padding-top:10px;
+}
+hgroup{
+    font-size:14px;
+    font-weight: bold;
+}
+legend{
+    padding: 5px 0;
+    margin-bottom: 0;
+    border-bottom: none;
+}
+input{
+    color:#aaa;
+    min-height: 28px;
+    line-height: 28px;
+    size:80;
+    font-size: 14px;
+    font-weight: bold;
+    vertical-align: middle;
+    width:773px;
+}
+textarea{
+    max-width: 100%;
+    min-height: 63px;
+    padding-top: 5px;
+    color:#aaa;
+    padding-bottom: 5px;
+    font-size: 14px;
+    vertical-align: middle;
+    width:773px;
+    height:512px;
+}
+#content .alert{
+    margin-top: 15px;
+}
+.cm_container_left{
+    width: 783px;
+    float: left;
+    border-right: 1px solid #eee;
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+.cm_container_left hgroup{
+    padding-left:3px;
+    padding-bottom: 5px;
+    border-left: 5px solid #aaa;
+    border-bottom: 1px solid #ccc;
+    width: 500px;
+}
+.cm_container_left section:last-child{
+    padding-bottom: 20px;
+}
+.cm_container_left h3{
+    margin-top: 0px;
+}
+.cm_container_right{
+    width:100px;/*414px*/
+    float:left;
+}
+.cm_submit{
+    width:100px;
+    background-color: #357ebd;
+    color:#ffffff;
+    border-color: #3071a9;
+    cursor: pointer;
+    border-radius: 4px;
+}
+#prev_top img{
+    width:540px;
+    height:280px;
+}
+#prev_top{
+    clear: both;
+}
+#prev_main_title{
+    width:460px;
+}
+#prev_top_aisatsu_text{
+    width:460px;
+}
+[id^="prev_rensai"]{
+    margin-right:30px;
+    float: left;
+}
+[id^="prev_rensai"] img{
+    width:150px;
+    height:150px;
+}
+[id$="_texts"]{
+    width:150px;
+}
+#prev_last img{
+    width:250px;
+    height:150px;
+}
+#prev_last{
+    margin-right:30px;
+    width:250px;
+    height: 150px;
+    clear:left;
+    float:left;
+}
+#prev_last_aisatsu_text{
+    width:360px;
+    float:left;
+}
+.prev_md_text{
+    list-style-type: disc;
+}
+footer{
+    clear: both;
+}
+
+@media screen and (min-width: 600px) and (max-width: 773px) {
+    textarea,input {
+        width:600px;
+    }
+    .cm_container_left{
+        width: 650px;
+        border-right: none;
+    }
+    div#content{
+        margin:60px 10px;
+    }
+}
+@media screen and (min-width: 480px) and (max-width: 600px) {
+    textarea,input {
+        width:480px;
+    }
+    .cm_container_left{
+        width: 520px;
+        border-right: none;
+    }
+    div#content{
+        margin:60px 10px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    textarea,input {
+        width:400px;
+    }
+    .cm_container_left{
+        width: 430px;
+        border-right: none;
+    }
+    div#content{
+        margin:60px 10px;
+    }
+}
+@media screen and (min-width: 0px) and (max-width: 320px) {
+    textarea,input {
+        width:280px;
+    }
+    .cm_container_left{
+        width: 290px;
+        border-right: none;
+    }
+    div#content{
+        margin:60px 10px;
+    }
+}

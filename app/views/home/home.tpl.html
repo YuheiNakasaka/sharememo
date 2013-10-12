@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>Share Memo - home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shere Memo">
+    <meta name="author" content="razokulover">
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/bootstrap.min.css" rel="stylesheet"></link>
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/custom.css" rel="stylesheet"></link>
+    <link rel="shortcut icon" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-144x144.png" />
+    <meta property="og:title" content="Share Memo">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.sharememo.net/">
+    <meta property="og:image" content="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/logo_400x400.png">
+    <meta property="og:site_name" content="Share Memo">
+    <meta property="og:description" content="Share Memo is a very simple memo pad!">
+{literal}
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-32830984-9";
+</script>
+{/literal}
+{literal}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32830984-9', 'sharememo.net');
+  ga('send', 'pageview');
+
+</script>
+{/literal}
+  </head>
+  <body class="bs-docs-home">
+    <!-- header nav -->
+<div class="navbar navbar-inverse navbar-fixed-top bs-docs-nav">
+  <div class="container">
+    <a href="/" class="navbar-brand">Share Memo</a>
+    <!--<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>-->
+    </div>
+  </div>
+</div><!--navbar end-->
+
+<!--main-wrapper end-->
+<div id="main-wrapper">
+
+<!--top row-->
+<div class="row">
+  <div class="col-6 col-lg-6">
+    <section class="main-home-top">
+      <!--<h1>Share Memo</h1>-->
+      <img src="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/logo_mini.png">
+      <p>Welcome to Share Memo!</p><p>This is very simple memo pad.</p><p>You can share the memo as soon as you've written.</p><p>Watch the <a href="http://www.youtube.com/watch?v=vaXq-ikV_qk" target="_blank" style="color:#fff;">tutorial video</a>?</p><p><small><a href="http://razokulover.hateblo.jp/entry/2013/08/04/131031" style="color:#fff;" target="_blank">More infomation?</a></small></p>
+    </section>
+  </div>
+  <div class="col-6 col-lg-6">
+    <div class="container">
+      <div class="social-btn">
+        {if isset($auth) && $auth != false}
+            <p><a href="/memo"><button style="margin-top:31px" type="button" class="btn btn-default btn-large">Sign in your memos</button></a></p>
+        {else}
+            <p><a href="/fblogin"><button type="button" class="btn btn-primary">Sign in with Facebook</button></a></p>
+            <p>or</p>
+            <p><a href="/twlogin"><button type="button" class="btn btn-info">Sign in with Twitter</button></a></p>
+            <p>Share Memo will not post to your wall without your permission.</p>
+        {/if}
+      </div>
+    </div>
+  </div>
+</div><!--description row end-->
+
+<!--desciption row-->
+<div>
+    <section class="home-section">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/pencil.png">
+    <h2>Write</h2>
+      <p>Share Memo supports <b>markdown</b> and some <b>shortcuts</b> like "ctrl+s" to save.So you can write what you thought or listened freely.</p>
+    </section>
+</div>
+<!--
+<div>
+    <section class="home-section">
+    <h2>Get URL</h2>
+      <p>Get URL of the memo.</p>
+    </section>
+</div>
+-->
+<div>
+    <section class="home-section">
+    <img src="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/share.png">
+    <h2>Share</h2>
+      <p>You can share your memo online.</p>
+    </section>
+</div><!--desciption row end-->
+<div>
+<section class="home-section" style="margin-left:40px;">
+            <div class="fb-like" data-href="http://www.sharememo.net/" data-width="200" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+            <a href="http://b.hatena.ne.jp/entry/http://www.sharememo.net/" class="hatena-bookmark-button" data-hatena-bookmark-title="タイトル" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="en" title="このエントリ>ーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリ
+ーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.sharememo.net/" data-text="Share Memo">Tweet</a>
+</section>
+</div>
+
+
+</div><!--main-wrapper end-->
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/jquery.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/bootstrap.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/socialbutton.js"></script>
+<!--footer-->
+{include file='/app/sharememo/app/views/common/footer.tpl.html'}
+<!--footer-->
+  </body>
+</html>

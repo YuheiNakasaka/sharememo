@@ -1,0 +1,64 @@
+<style type="text/css">
+input#search-text-box{
+     max-width:"200px !important";
+     height:"20px";
+}
+</style>
+<div class="navbar navbar-inverse navbar-fixed-top bs-docs-nav">
+  <div class="container">
+    <a href="/memo" class="navbar-brand">Share Memo</a>
+    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <div class="nav-collapse collapse bs-navbar-collapse">
+        {if $auth}
+        <ul class="nav navbar-nav">
+        <li class="navbar-text pull-left">
+            <a id="sm-navbar-right" href="{url('/memo')}" class="navbar-link">
+            new
+            </a>
+        </li>
+        </ul>
+        <ul class="nav navbar-nav">
+        <li class="navbar-text pull-left">
+            <a id="sm-navbar-right" href="{url('/memo/notes')}" class="navbar-link">
+            notes
+            </a>
+        </li>
+        </ul>
+        <ul class="nav navbar-nav">
+        <li class="navbar-text pull-left">
+            <a id="sm-navbar-right" href="{url('/memo/drafts')}" class="navbar-link">
+            drafts
+            </a>
+        </li>
+        </ul>
+        {/if}
+      <ul class="nav navbar-nav pull-right">
+        <li class="navbar-text pull-right dropdown">
+          {if $auth}
+            <a id="sm-navbar-right" class="dropdown-toggle" data-toggle="dropdown" href="#"><img src="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/gear.png" style="width:20px;height:20px;"><b class="caret"></b></a>
+            <ul id="sm-dropdown-menu" class="dropdown-menu" role="menu" aria-labelledby="drop6">
+                <li>{$user_name}</li>
+                <li role="presentation" class="divider"></li>
+                <li><a href="{url('/logout')}" role="menuitem" tabindex="-1">Sign out</a></li>
+            </ul>
+          {else}
+            <a id="sm-navbar-right" href="{url('/')}">Sign up</a>
+          {/if}
+        </li>
+      </ul>
+      {if $auth}
+      <ul class="nav navbar-nav pull-right">
+        <li class="navbar-text pull-right dropdown" style="height:20px;margin-top:11px;">
+              <form method="get" action="{url('memo/notes/search')}" name="searchbox">
+                  <input type="text" name="q" id="searchtextbox" placeholder="search" style="width: 200px;height: 10px;background-image:url(https://s3-ap-northeast-1.amazonaws.com/sharememo/images/magnifying-glass.png);background-repeat : no-repeat;background-position : right center;border-radius:7px;" value="{if isset($q)}{$q}{/if}">
+              </form>
+        </li>
+      </ul>
+      {/if}
+    </div>
+  </div>
+</div><!--navbar end-->

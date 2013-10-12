@@ -1,0 +1,30 @@
+{include file='/app/sharememo/app/views/common/header.tpl.html'}
+  <body class="bs-docs-home">
+    <!-- header nav -->
+{include file='/app/sharememo/app/views/common/navbar.tpl.html'}
+<!--main-wrapper end-->
+<div id="sm-show-content">
+    <div class="sm-notes-left">
+        <div class="sm-notes-memos">
+            {if isset($user_url) && isset($memo_image_url)}
+            <h3><a href="{$user_url}"><img src="{$memo_image_url}"></a>{$user_name}'s Notes</h3>
+            {else}
+            <h3>Notes</h3>
+            {/if}
+            {if isset($q)}
+                <p style="margin-left:40px;">search words: {$q}</p>
+            {/if}
+            <ul>
+                {foreach $memos as $k => $memo}
+                    <li><a href="{url('/memo')}/{$memo['urlpath']}" style="display: block;">{$memo['title']}</a><span class="sm-notes-date">updated at {$memo['updated_at']}</span></li>
+                {/foreach}
+            </ul>
+            {$memos->links()}
+        </div>
+    </div>
+</div><!--content end-->
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/jquery.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/bootstrap.js"></script>
+{include file='/app/sharememo/app/views/common/footer.tpl.html'}
+</body>
+</html>

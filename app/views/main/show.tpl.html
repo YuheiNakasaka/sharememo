@@ -1,0 +1,77 @@
+{include file='/app/sharememo/app/views/common/header.tpl.html'}
+  <body class="bs-docs-home">
+    <!-- header nav -->
+{include file='/app/sharememo/app/views/common/navbar.tpl.html'}
+<!--main-wrapper end-->
+<div id="sm-show-content">
+    <div class="sm-show-left">
+        <div class="sm-show-memos">
+             <section class="sm-show-writename"><img src="{$memo_image_url}" style="width:24px;height:24px;"><a href="{$user_url}" target="_blank"><b>{$write_user_name}</b></a> created at {$created_at}</section>
+             <section class="sm-show-title">
+                <h3>{$title}</h3>
+             </section>
+            <section id="md-display">{$memo}</section>
+        </div>
+        <div class="sm-show-embed">
+            <section class="sm-show-embed-input">
+                Share URL
+                <input type="text" onclick="this.select(0,this.value.length)" value="{url('/memo')}/{$id}"/>
+            </section>
+        </div>
+        <div class="sm-show-social">
+            <div class="fb-like" data-href="{url('/memo')}/{$id}" data-width="200" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+            <a href="http://b.hatena.ne.jp/entry/{url('/memo')}/{$id}" class="hatena-bookmark-button" data-hatena-bookmark-title="タイトル" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="{url('/memo')}/{$id}" data-text="{$title} - Share Memo">Tweet</a>
+        </div>
+    {if isset($owner) && $owner != ''}
+        <div class="sm-show-owner">
+            <a href="{url('/memo')}/{$id}/edit">
+                <button type="button" class="btn btn-success">edit</button>
+            </a>
+            <a id="sm-delete" href="{url('/memo')}/{$id}/delete">
+                <button type="button"  class="btn btn-danger" onclick="return conf();">delete</button>
+            </a>
+        </div>
+    {/if}
+    </div>
+    <div class="sm-show-right">
+        <section class="sm-show-ad">
+           <!-- <img src="{{URL::to('assets/img/6b9f1b8fa7df93b6946b195d2d535b06a5336dde.png')}}">-->
+<script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sharememo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4405116299822392"
+     data-ad-slot="5520874752"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!--         {if !empty($user_memo_lists)}
+        <div class="sm-show-memo-lists">
+            <h4>{$write_user_name}'s latest memo</h4>
+            {foreach $user_memo_lists as $k => $list}
+                <p><a href="{url('/memo')}/{$list['urlpath']}">{$list['title']}</a></p>
+            {/foreach}
+            <p><a href="{url('/memo')}/{if $user_name != $write_user_name}{$user_id}/{/if}notes">more notes→</a></p>
+        </div>
+        {/if} -->
+        </section>
+    </div>
+</div><!--content end-->
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/jquery.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/bootstrap.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/marked.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/mdpreview.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/socialbutton.js"></script>
+<script >
+function conf(){
+    if(window.confirm('Do you really delete this?')){
+        location.href = document.getElementById('sm-delete').src;
+    }else{
+        return false;
+    }
+}
+</script>
+{include file='/app/sharememo/app/views/common/footer.tpl.html'}
+</body>
+</html>

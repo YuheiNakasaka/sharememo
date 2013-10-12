@@ -1,0 +1,50 @@
+.sm-notes-memos{
+    margin-top: 20px;
+}
+.sm-notes-memos li{
+    font-size: 20px;
+    font-weight:bold;
+    border:1px solid #eee;
+    margin: 10px 0;
+}
+.sm-notes-memos h3{
+    font-weight: bold;
+    text-align: center;
+}
+.sm-notes-date{
+    color: #bbb;
+    font-size: 14px;
+}
+.pagination{
+    text-align: center;
+}
+.pagination li {
+    float:left;
+    margin-right:5px;
+    font-size: 14px;
+    padding: 6px;
+}
+@media screen and (min-width: 600px) and (max-width: 773px) {
+    .sm-notes-left{
+        width: 650px;
+        border-right: none;
+    }
+}
+@media screen and (min-width: 480px) and (max-width: 600px) {
+    .sm-notes-left{
+        width: 520px;
+        border-right: none;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .sm-notes-left{
+        width: 430px;
+        border-right: none;
+    }
+}
+@media screen and (min-width: 0px) and (max-width: 320px) {
+    .sm-notes-left{
+        width: 270px;
+        border-right: none;
+    }
+}

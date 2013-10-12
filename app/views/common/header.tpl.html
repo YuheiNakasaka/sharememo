@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>{if isset($title)}{$title}{else}Share Memo{/if}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shere Memo">
+    <meta name="author" content="razokulover">
+    <link rel="canonical" href="{if isset($id)}{url('/memo')}/{$id}{else}{url('/')}{/if}">
+
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/bootstrap.min.css" rel="stylesheet"></link>
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/custom.css" rel="stylesheet"></link>
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/form.css" rel="stylesheet"></link>
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/show.css" rel="stylesheet"></link>
+    <link href="https://s3-ap-northeast-1.amazonaws.com/sharememo/css/notes.css" rel="stylesheet"></link>
+    <link rel="shortcut icon" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/apple-touch-icon-144x144.png" />
+    <meta property="og:title" content="Share Memo">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{if isset($id)}{url('/memo')}/{$id}{else}{url('/')}{/if}">
+    <meta property="og:image" content="https://s3-ap-northeast-1.amazonaws.com/sharememo/images/logo_400x400.png">
+    <meta property="og:site_name" content="Share Memo">
+    <meta property="og:description" content="{if isset($title)}{$title} - Share Memo{else}Share Memo{/if}">
+{literal}
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-32830984-9";
+</script>
+{/literal}
+{literal}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32830984-9', 'sharememo.net');
+  ga('send', 'pageview');
+
+</script>
+{/literal}
+  </head>

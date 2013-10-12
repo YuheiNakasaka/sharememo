@@ -1,0 +1,32 @@
+{include file='/app/sharememo/app/views/common/header.tpl.html'}
+<style>
+#search-text-box {
+    width:200px;
+    height:25px;
+}
+</style>
+  <body class="bs-docs-home">
+    <!-- header nav -->
+{include file='/app/sharememo/app/views/common/navbar.tpl.html'}
+<!--main-wrapper end-->
+<div id="sm-show-content">
+    <div class="sm-notes-left">
+        <div class="sm-notes-memos">
+            <h3>Notes</h3>
+            {if isset($q)}
+                <p>search words: {$q}</p>
+            {/if}
+            <ul>
+                {foreach $memos as $k => $memo}
+                    <li><a href="{url('/memo')}/{$memo['urlpath']}">{$memo['title']}</a><br><span class="sm-notes-date">updated at {$memo['updated_at']}</span></li>
+                {/foreach}
+            </ul>
+            {$memos->links()}
+        </div>
+    </div>
+</div><!--content end-->
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/jquery.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/bootstrap.js"></script>
+{include file='/app/sharememo/app/views/common/footer.tpl.html'}
+</body>
+</html>

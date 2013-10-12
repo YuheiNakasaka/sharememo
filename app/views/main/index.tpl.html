@@ -1,0 +1,82 @@
+{include file='/app/sharememo/app/views/common/header.tpl.html'}
+  <body class="bs-docs-home">
+    <style type="text/css">
+      .alert-autosaved-status{
+        float: right;
+        margin-right: 7px;
+        color: #aaa;
+    }
+    </style>
+    <!-- header nav -->
+{include file='/app/sharememo/app/views/common/navbar.tpl.html'}
+
+<!--main-wrapper end-->
+<div id="content">
+{if isset($errors) && in_array("validation.required",$errors)}
+<div class="alert alert-danger">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Error!</strong> You must write something at least more than 1 word in title and memo area.
+</div>
+{else if isset($errors) && in_array("validation.max.string",$errors)}
+<class="alert alert-danger">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <strong>Error!</strong> Title must be less than 199 characters. Memos must be less than 40,000 characters.
+</div>
+{/if}
+<div class="cm_container_left">
+<form method="post" action="{url('memo/create')}" enctype="multipart/form-data">
+{Form::token()}
+<input id="_asdfid" name="_asdfid" type="hidden" value="{$asdfid}">
+<section>
+    <h3><b>New</b></h3>
+    <span class="cm-md-help"><a href="http://packetlife.net/media/library/16/Markdown.pdf" target="_blank">HELP</a></span>
+    <legend></legend>
+    <input type="text" id="top_aisatsu_title" name="top_aisatsu_title" value="{if isset($title)}{$title}{else}{date('Y/m/d')}{/if}" placeholder="title" onkeydown="onKeyDownInput(this,event)" onkeyup="showPreview('top_aisatsu_title','prev_main_title')"/><br />
+    <legend><span></span></legend>
+    <textarea id="top_aisatsu_text" name="top_aisatsu_text" placeholder="write a memo..." onkeydown="onKeyDown(this,event)" onkeyup="showPreview('top_aisatsu_text','prev_top_aisatsu_text')">{if isset($memo)}{$memo}{/if}</textarea>
+</section>
+<section>
+    <div class="cm-md-checkstatus">
+      <div class="cm-md-checkstatus-box">
+        <span>private</span>
+        <input type="radio" class="cm-md-checkstatus-input" name="sharestatus" value="1" checked="checked">
+      </div>
+      <div class="cm-md-checkstatus-box">
+        <span>public</span>
+        <input type="radio" class="cm-md-checkstatus-input" name="sharestatus" value="0">
+      </div>
+    </div>
+    <div class="cm-md-form-bottom">
+      <input id="cm_submit" class="cm_submit" type="submit" value="save"/>
+      <div class="alert-autosaved-status"></div>
+    </div>
+</section>
+</form>
+</div><!--cm_container_left end-->
+
+<!--cm_container_right-->
+<div class="cm_container_right">
+    <h3><b>Preview</b></h3>
+    <section id="sm-preview-right">
+    <hgroup id="prev_main_title"></hgroup>
+    <ul>
+        <li id="prev_top_aisatsu_text"></li>
+    </ul>
+    </section>
+</div>
+<!--footer-->
+</div><!--content end-->
+<script type="text/javascript">
+var _saveurl = "{url('memo/autosave')}";
+</script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/jquery.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/bootstrap.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/marked.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/mdpreview.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/autosave.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/asyncautosave.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/alertbrowserback.js"></script>
+{include file='/app/sharememo/app/views/common/footer.tpl.html'}
+</body>
+</html>
+

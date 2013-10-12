@@ -1,0 +1,47 @@
+{include file='/app/sharememo/app/views/common/header.tpl.html'}
+  <body class="bs-docs-home">
+    <!-- header nav -->
+{include file='/app/sharememo/app/views/common/navbar.tpl.html'}
+<!--main-wrapper end-->
+<div id="sm-show-content">
+    <div class="sm-notes-left">
+        <div class="sm-notes-memos">
+            <h3>Drafts</h3>
+            <ul>
+                {foreach $drafts as $k => $draft}
+                    <li><a href="{url('/memo')}/draft/{$draft['draft_id']}">{$draft['title']}</a><span class="sm-notes-date">created at {$draft['updated_at']}</span><button type="button" class="close sm-drafts-delete" data-dismiss="alert" draft-id="{$draft['draft_id']}">&times;</button></li>
+                {/foreach}
+            </ul>
+            {$drafts->links()}
+        </div>
+    </div>
+</div><!--content end-->
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/jquery.js"></script>
+<script src="https://s3-ap-northeast-1.amazonaws.com/sharememo/js/bootstrap.js"></script>
+<script>
+var _draftdelurl = "{url('/memo')}";
+{literal}
+$('.sm-drafts-delete').click(function(e){
+    var _dfid = $(this).attr('draft-id');
+    var _mgdrafturl   = _draftdelurl + '/draft/' + _dfid + '/delete';
+    //confirmation
+    if(window.confirm('Do you really delete this?')){
+      $.ajax({
+          url: _mgdrafturl,
+          type: 'POST',
+          dataType: 'json'
+      })
+      .done(function( data ) {
+          if(data.status == 'success') {
+            $(e.target).closest("li").remove();
+          }
+      });
+    }else{
+        return false;
+    }
+});
+{/literal}
+</script>
+{include file='/app/sharememo/app/views/common/footer.tpl.html'}
+</body>
+</html>
